@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drkoxal
+- 👋 Hi, I’m @koxal.n
 - 👀 I’m interested in Matlab and Arduino.
 - 🌱 I’m currently learning medical imaging, Fourier Ptychograpgic microscopy.
 - 💞️ I’m looking to collaborate on ...
