@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koxal.n
 - 👀 I’m interested in Matlab and Arduino.
 - 🌱 I’m currently learning medical imaging, Fourier Ptychograpgic microscopy.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nekoksal@aybu.edu.tr
+- 💞️ I’m looking to collaborate on researchers.
+- 📫 How to reach me nurefsankoksal@gmail.com
 
 <!---
 koxal.n/koxal.n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
