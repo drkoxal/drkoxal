@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @koxal.n
-- 👀 I’m interested in Matlab and Arduino.
+- 👀 I’m interested in Matlab, Python Raspberry Pi and Arduino.
 - 🌱 I’m currently learning medical imaging, Fourier Ptychograpgic microscopy.
-- 💞️ I’m looking to collaborate on researchers.
+- 💞️ I’m looking to collaborate with researchers.
 - 📫 How to reach me nurefsankoksal@gmail.com
 
 <!---
